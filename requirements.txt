@@ -6,4 +6,4 @@ lxml==4.6.5
 selenium>=3.141.0
 scikit-image>=0.16.2
 deskew==0.10.2
-opencv-python-headless==4.2.0.34
+opencv-python-headless==4.8.1.78
